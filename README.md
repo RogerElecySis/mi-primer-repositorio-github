@@ -1,2 +1,3 @@
 mi primer readme
-mi primer repsitorio
+mi primer repositorio
+verificar
